@@ -1,11 +1,6 @@
 {
-  "firestore": {
-    "database": "(default)",
-    "rules": "firestore.rules",
-    "indexes": "firestore.indexes.json"
-  },
   "hosting": {
-    "public": "dist/e-szakszerviz-idopont-foglal/browser",
+    "public": "dist/autobiztositas",
     "ignore": [
       "firebase.json",
       "**/.*",
